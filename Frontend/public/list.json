@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "category": "Free",
+    "price": 0,
+    "name": "Story Book",
+    "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=2&uuid=45bd7c09-ff24-41ed-ab7c-6821963e3d62"
+  },
+  {
+    "id": 2,
+    "category": "Free",
+    "price": 0,
+    "name": "Drama Book",
+    "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=2&uuid=45bd7c09-ff24-41ed-ab7c-6821963e3d62"
+  },
+  {
+    "id": 3,
+    "category": "Free",
+    "price": 0,
+    "name": "Comdedy Book",
+    "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=2&uuid=45bd7c09-ff24-41ed-ab7c-6821963e3d62"
+  },
+  {
+    "id": 4,
+    "category": "Free",
+    "price": 0,
+    "name": "Sports Book",
+    "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=2&uuid=45bd7c09-ff24-41ed-ab7c-6821963e3d62"
+  },
+  {
+    "id": 5,
+    "category": "Paid",
+    "price": 100,
+    "name": "Comdedy Book",
+    "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=2&uuid=45bd7c09-ff24-41ed-ab7c-6821963e3d62"
+  },
+  {
+    "id": 6,
+    "category": "Free",
+    "price": 0,
+    "name": "Story Book",
+    "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=2&uuid=45bd7c09-ff24-41ed-ab7c-6821963e3d62"
+  },
+  {
+    "id": 7,
+    "category": "Paid",
+    "price": 50,
+    "name": "Story Book",
+    "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=2&uuid=45bd7c09-ff24-41ed-ab7c-6821963e3d62"
+  },
+  {
+    "id": 8,
+    "category": "Paid",
+    "price": 120,
+    "name": "Story Book",
+    "image": "https://www.freepik.com/free-vector/books-stack-realistic_1537673.htm#fromView=search&page=1&position=2&uuid=45bd7c09-ff24-41ed-ab7c-6821963e3d62"
+  }
+]
